@@ -2,9 +2,9 @@ var chai = require('chai');
 var expect = chai.expect;
 var findPalindromeProduct = require("../largest_palindrome_product.js");
 
-describe("The Largest Palindrome Product", function () {
-  it("of two 2 digit numbers should be 9009, 91 x 99", function () {
-    var result = findPalindromeProduct(1,2);
+describe("Find The Largest Palindrome Product", function () {
+  it("of two 2 digit numbers", function () {
+    var result = findPalindromeProduct(2);
 
     expect(result.palindromeNumber).to.equal(9009);
 
@@ -13,8 +13,8 @@ describe("The Largest Palindrome Product", function () {
     expect([91, 99]).to.include(result.factor_1);
   });
 
-  it("of two 3 digit numbers should be 906609", function () {
-    var product = findPalindromeProduct(1,3);
+  it("of two 3 digit numbers", function () {
+    var product = findPalindromeProduct(3);
 
     expect(product.palindromeNumber).to.equal(906609);
 

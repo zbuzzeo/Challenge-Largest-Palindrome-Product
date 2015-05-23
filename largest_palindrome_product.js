@@ -1,12 +1,11 @@
-/*  function(multiplicands, digits)
+/*  function(digits)
  *
- *  @param {Number} multiplicands  the amount of multiplicands to multiply by
  *  @param {Number} digits         the amount of digits in each multiplicand
  *
  *  @return {Object} an object containing the two factors used to produce
  *                   the palindromeNumber and the palindromeNumber itself.
  */
-module.exports = function(multiplicands, digits){
+module.exports = function(digits){
   var factor_0 = 0;
   var factor_1 = 0;
   var palindromeNumber = 0;
