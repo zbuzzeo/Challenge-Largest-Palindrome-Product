@@ -28,6 +28,9 @@ There are **2** tests initially, make the tests pass.
 4. Run your test with the command: `npm test`
 5. There are two tests total. Make them pass!
 
+## Caveats
+How do you create numbers dynamically?
+
 ### Bonus Round
 What if you were given `2, 2`? One example of two multiplicands with two-digits would be:
 
