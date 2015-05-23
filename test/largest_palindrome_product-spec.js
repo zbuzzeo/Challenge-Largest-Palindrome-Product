@@ -22,7 +22,4 @@ describe("Find The Largest Palindrome Product", function () {
     //
     //
   });
-  it('should only accept Numbers as arugments', function () {
-
-  });
 });
