@@ -33,4 +33,9 @@ What if you were given `2, 2`? One example of two multiplicands with two-digits 
 
     10 x 67 x 89 = 59630;
 
+## References
+[Multiplicand on Wolfram](http://mathworld.wolfram.com/Multiplicand.html)
+[Multiplier](http://mathworld.wolfram.com/Multiplier.html)
+[Palindrome](http://en.wikipedia.org/wiki/Palindrome)
+
 ### _From Project Euler Problem 4_
