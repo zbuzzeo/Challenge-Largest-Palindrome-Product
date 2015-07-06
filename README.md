@@ -19,6 +19,8 @@ There are **2** tests initially, make the tests pass.
 4. Run your test with the command: `npm test`
 5. There are two tests total. Make them pass!
 
+When you are done, push your answer to the `master` branch, and checkout `advanced` branch and read the Advanced portion of the readme.
+
 ## References
 [Palindrome](http://en.wikipedia.org/wiki/Palindrome)
 
